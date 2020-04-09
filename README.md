@@ -1,2 +1,4 @@
 # TRIE-DIGITAL-TREE-PREFIX-TREE-
 Implementation of TRIE Digital Trees using JAVA
+
+In this vastly improving field of Computer Science, we need to search some information stored in data structure. There are multiple ways and method to search an integer or a string in our data. The searching algorithm has improved a lot in the past few decades. The searching algorithm can be implemented through array, linked list or a tree. These algorithms are evaluated on their run time complexity. However, we need a whole data structure that can store and maintain huge sets of data as well as perform these operations. In this report, an effort is made to compare the performance of TRIE digital tree using array and hash table. This study shows the time complexity of insertion, deletion and searching and how the runtime changes as the data size increases.
